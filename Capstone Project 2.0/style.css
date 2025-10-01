@@ -1,5 +1,5 @@
 html{
-    background-color: rgb(2, 33, 113);
+    background-color: rgba(246, 152, 45, 0.521);
 }
 
 #hero img{ 
@@ -13,5 +13,10 @@ html{
 }
 #hero p{
     font-family: Satisfy;
+}
+
+#interest h2{
+    font-family: Satisfy;
+    font-weight: bold;
 }
 
